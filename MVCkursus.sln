@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCintro", "MVCintro\MVCintro.csproj", "{AE5885C4-B3FB-4DE2-ADF1-918F2F505527}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1MVCintro", "MVCintro\1MVCintro.csproj", "{AE5885C4-B3FB-4DE2-ADF1-918F2F505527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ModelDemo", "ModelDemo\2ModelDemo.csproj", "{D05FD3AA-6359-474B-9FD3-5223EB6AEC82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AE5885C4-B3FB-4DE2-ADF1-918F2F505527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE5885C4-B3FB-4DE2-ADF1-918F2F505527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE5885C4-B3FB-4DE2-ADF1-918F2F505527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05FD3AA-6359-474B-9FD3-5223EB6AEC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05FD3AA-6359-474B-9FD3-5223EB6AEC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05FD3AA-6359-474B-9FD3-5223EB6AEC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05FD3AA-6359-474B-9FD3-5223EB6AEC82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

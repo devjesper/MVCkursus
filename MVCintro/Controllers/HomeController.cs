@@ -15,7 +15,7 @@ namespace MVCintro.Controllers
         }
         public ActionResult Index2()
         {
-            string name = "Carl";
+            string name = "Ib";
 
             return Json(name,JsonRequestBehavior.AllowGet);
         }
