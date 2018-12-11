@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ModelDemo", "ModelDemo\2Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ConrollerDemo", "3ConrollerDemo\3ConrollerDemo.csproj", "{1C90F915-D54D-4F23-8B3C-9CC4B60A9195}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4FilterDemon", "4FilterDemon\4FilterDemon.csproj", "{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1C90F915-D54D-4F23-8B3C-9CC4B60A9195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C90F915-D54D-4F23-8B3C-9CC4B60A9195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C90F915-D54D-4F23-8B3C-9CC4B60A9195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
