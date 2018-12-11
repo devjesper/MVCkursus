@@ -107,6 +107,10 @@
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Test6.cshtml" />
+    <Content Include="Views\Home\Test8.cshtml" />
+    <Content Include="Views\Home\Test9.cshtml" />
+    <Content Include="Views\Home\test11.cshtml" />
+    <Content Include="Views\Home\test12.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

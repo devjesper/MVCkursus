@@ -49,8 +49,53 @@ namespace _3ConrollerDemo.Controllers
         }
 
 
+        public ActionResult Test8()
+        {
+            string t = Guid.NewGuid().ToString();
+            ViewBag.bla = t;
+
+            return View();
+        }
+
+        public ActionResult Test9()
+        {
+            string t = Guid.NewGuid().ToString();
+            Test9ViewModel m = new Test9ViewModel
+            {
+                Id = 1,
+                Streng = t
+            };
+            return View(m);
+        }
+
+        
+        public ActionResult test10(string test, int tal=0)
+        {
+            return View();
+        }
+
+        public ActionResult test11(Person p)
+        {
+
+            return View();
+        }
+
+        public ActionResult test12(Person p)
+        {
+            if (!ModelState.IsValid) { } else { }
+            return View();
+        }
 
     }
+
+
+
+    public class Test9ViewModel
+    {
+        public int Id { get; set; }
+        public string Streng { get; set; }
+    }
+
 
     public class Person
     {
