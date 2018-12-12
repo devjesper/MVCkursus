@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8ViewTest", "8ViewTest\8Vie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterPage", "MasterPage\MasterPage.csproj", "{ABD58F05-5196-4241-B86B-690180FD9E4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMedWebapi", "TestMedWebapi\TestMedWebapi.csproj", "{54C3D948-6BBD-4ECC-922D-67307ABD49C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{ABD58F05-5196-4241-B86B-690180FD9E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABD58F05-5196-4241-B86B-690180FD9E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABD58F05-5196-4241-B86B-690180FD9E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C3D948-6BBD-4ECC-922D-67307ABD49C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C3D948-6BBD-4ECC-922D-67307ABD49C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C3D948-6BBD-4ECC-922D-67307ABD49C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C3D948-6BBD-4ECC-922D-67307ABD49C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
