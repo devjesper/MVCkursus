@@ -14,8 +14,8 @@ namespace ModelDemo.Models
         [DataType(DataType.Password)]
         public string Password { get; set; }
 
-        [Display(Name = "Plaese remember me",)]
-        public bool Remember { get; set; }
+        //[Display(Name = "Plaese remember me",)]
+        //public bool Remember { get; set; }
 
     }
 }
