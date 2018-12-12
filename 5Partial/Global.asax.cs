@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Routing;
+
+namespace _5Partial
+{
+    public class MvcApplication : System.Web.HttpApplication
+    {
+        protected void Application_Start()
+        {
+            AreaRegistration.RegisterAllAreas();
+            RouteConfig.RegisterRoutes(RouteTable.Routes);
+        }
+
+
+        // Global fejlhåndtering
+        protected void Application_Error()
+        {
+            // Her ender alle fejl
+
+
+            var ex = Server.GetLastError();
+            // log ex
+
+            // redirect til fejl
+        }
+    }
+}

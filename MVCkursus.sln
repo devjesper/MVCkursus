@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ConrollerDemo", "3Conrolle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4FilterDemon", "4FilterDemon\4FilterDemon.csproj", "{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Partial", "5Partial\5Partial.csproj", "{1603B822-C919-456A-945B-06E72A5D0380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6Route1", "6Route1\6Route1.csproj", "{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D3997BC-D9FB-4D47-BF62-B8AD115AE8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1603B822-C919-456A-945B-06E72A5D0380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1603B822-C919-456A-945B-06E72A5D0380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1603B822-C919-456A-945B-06E72A5D0380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1603B822-C919-456A-945B-06E72A5D0380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
