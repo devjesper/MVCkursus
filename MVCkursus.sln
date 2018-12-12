@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Partial", "5Partial\5Parti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6Route1", "6Route1\6Route1.csproj", "{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Route2Attribute", "7Route2Attribute\7Route2Attribute.csproj", "{A7B5927D-4238-4F0B-945F-26EF7D9A1F5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7306B28-9241-4AE8-A90D-5BF3CD830F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B5927D-4238-4F0B-945F-26EF7D9A1F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B5927D-4238-4F0B-945F-26EF7D9A1F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B5927D-4238-4F0B-945F-26EF7D9A1F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B5927D-4238-4F0B-945F-26EF7D9A1F5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
